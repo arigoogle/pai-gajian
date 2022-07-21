@@ -1,10 +1,4 @@
 /*--------------------------------------------------------------------------------------
-Theme Name: COMING SOON ULTIMATE
-Theme URI: http://devitfamily.com
-Author URI: http://devitfamily.com
-Description: 100% Responsive, Highly Customizable, SEO Friendly Coming Soon template using Twitter Bootstrap Latest, Search Engine Friendly.
-Author: BDEXPERT
-Version: 1.0
 ----------------------------------------------------------------------------------------
     1. BASE CSS
     2. MAIN AREA
@@ -276,7 +270,7 @@ a.readmore:hover {
 }
 
 .main-area-bg {
-    background: rgba(0, 0, 0, 0) url("img/background/default_3.jpg") no-repeat scroll center center / cover;
+    background: rgba(0, 0, 0, 0) url("https://images.unsplash.com/photo-1553729459-efe14ef6055d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80") no-repeat scroll center center / cover;
     height: 100%;
     left: 0;
     position: absolute;
